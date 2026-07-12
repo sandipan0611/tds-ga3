@@ -1,0 +1,4 @@
+fastapi
+uvicorn
+instructor
+openai
